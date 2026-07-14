@@ -1,0 +1,6 @@
+WiFi
+MAX30100_PulseOximeter
+OneWire
+DallasTemperature
+DHT sensor library
+Adafruit Unified Sensor
